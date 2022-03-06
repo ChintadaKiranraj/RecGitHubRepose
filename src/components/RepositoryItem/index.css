@@ -1,0 +1,28 @@
+.avatar-url {
+  width: 30%;
+}
+
+.item {
+  background-color: #f8f8ff;
+  margin-right: 10px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.image {
+  width: 25px;
+  height: 25px;
+}
+
+.icon-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
